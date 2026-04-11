@@ -15,4 +15,4 @@ Hi there! I'm a passionate Full-Stack Web Developer in the making — learning t
 ---
 [![](https://visitcount.itsvg.in/api?id=abdulrahman-almasaoudi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->F
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
